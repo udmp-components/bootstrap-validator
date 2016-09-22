@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/1000hz/bootstrap-validator.git",
+    "version": "v0.11.5",
+    "name": "bootstrap-validator",
+    "main": "bootstrap-validator.js"
+}
